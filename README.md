@@ -1,27 +1,43 @@
 # NotHamlets
 
-Bienvenido a mi perfil de GitHub Pages.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Desarrollador+%7C+Aprendiz+%7C+Creativo+%7C+Curioso" alt="Typing SVG" />
+</div>
 
-Soy NotHamlets, un desarrollador apasionado por la tecnología, la programación y la creación de soluciones útiles y bien diseñadas. Este repositorio sirve como punto de entrada a mi presencia en GitHub y como espacio para compartir proyectos, ideas y aprendizaje.
+Bienvenido a mi espacio personal en GitHub Pages. Aquí comparto proyectos, ideas y mi crecimiento como desarrollador.
 
 ## Sobre mí
 
-- Nombre de usuario: NotHamlets
-- Perfil de GitHub: https://github.com/NotHamlets
-- Repositorio principal: NotHamlets.github.io
-- Intereses: desarrollo web, automatización, programación, aprendizaje continuo y creación de proyectos personales
+Soy NotHamlets, un apasionado por la tecnología, la programación y la creación de soluciones útiles. Me gusta aprender nuevas herramientas, explorar ideas creativas y mejorar constantemente mis habilidades técnicas.
+
+## Objetivos
+
+- Aprender y dominar nuevas tecnologías.
+- Crear proyectos prácticos y bien diseñados.
+- Mejorar mi experiencia en desarrollo web y programación.
+- Construir una presencia digital sólida y profesional.
+
+## Stack principal
+
+- HTML
+- CSS
+- JavaScript
+- Git / GitHub
+- Desarrollo web
+- Programación general
 
 ## Proyectos
 
-- NotHamlets.github.io: repositorio personal para mi sitio y perfil en GitHub Pages
+- NotHamlets.github.io: mi sitio personal y perfil principal en GitHub Pages.
 
-## Stack / habilidades
+## Enfoque actual
 
-- Git y GitHub
-- HTML, CSS y JavaScript
-- Desarrollo web y páginas personales
-- Programación y resolución de problemas
-- Aprendizaje constante en nuevas tecnologías
+Estoy centrado en:
+
+- Desarrollo front-end y páginas web personales
+- Mejorar mis habilidades de programación
+- Explorar automatización y herramientas útiles
+- Construir proyectos con una base sólida y código limpio
 
 ## Contacto
 
@@ -30,5 +46,5 @@ Soy NotHamlets, un desarrollador apasionado por la tecnología, la programación
 
 ## Mensaje
 
-Estoy construyendo mi presencia digital como desarrollador y compartiendo proyectos que reflejan mi crecimiento, creatividad y curiosidad tecnológica.
+Estoy construyendo mi camino como desarrollador con curiosidad, constancia y creatividad. Este espacio refleja mi evolución y mi interés por seguir aprendiendo cada día.
 
