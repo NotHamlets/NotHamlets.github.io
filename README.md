@@ -15,9 +15,9 @@
 
 ## 👋 Sobre mí
 
-Soy NotHamlets, un apasionado por la programación, la tecnología y la creación de soluciones útiles. Me interesa construir proyectos con una base sólida, aprender nuevas herramientas y mejorar cada día como desarrollador.
+Soy NotHamlets, un apasionado de la tecnología, la programación y la creación de soluciones prácticas. Me interesa aprender, crear proyectos con valor y mejorar mi camino como desarrollador cada día.
 
-Mi enfoque está en combinar creatividad, lógica y aprendizaje constante para transformar ideas en experiencias digitales funcionales y bien diseñadas.
+Mi enfoque combina creatividad, lógica y constancia para transformar ideas en experiencias digitales útiles y bien diseñadas.
 
 ## 🚀 Perfil
 
@@ -26,7 +26,7 @@ Mi enfoque está en combinar creatividad, lógica y aprendizaje constante para t
 - Sitio personal: https://NotHamlets.github.io
 - Intereses: desarrollo web, programación, tecnología, automatización y aprendizaje continuo
 
-## 🧠 Tecnologías
+## 🧠 Stack principal
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -38,16 +38,16 @@ Mi enfoque está en combinar creatividad, lógica y aprendizaje constante para t
 
 ## 📁 Proyectos
 
-- `NotHamlets.github.io` — Repositorio personal para mi perfil y sitio web en GitHub Pages.
+- `NotHamlets.github.io` — Mi espacio personal en GitHub Pages para compartir mi perfil, proyectos y presencia digital.
 
-## 🌱 Objetivos
+## 🎯 Objetivos
 
-- Aprender y dominar nuevas tecnologías.
-- Desarrollar proyectos personales con valor real.
-- Mejorar mis habilidades en programación y diseño web.
+- Aprender nuevas tecnologías y mejorar mis habilidades.
+- Diseñar proyectos con buena estructura y enfoque práctico.
 - Construir una presencia digital sólida y profesional.
+- Seguir creciendo como desarrollador con creatividad y constancia.
 
-## 📬 Contacto
+## 🌐 Contacto
 
 - GitHub: https://github.com/NotHamlets
 - Sitio personal: https://NotHamlets.github.io
