@@ -15,17 +15,18 @@
 
 ## 👋 Sobre mí
 
-Soy NotHamlets, un apasionado de la programación y la tecnología. Me interesa crear soluciones útiles, aprender constantemente y mejorar mis habilidades en el desarrollo web y la ingeniería de software.
+Soy NotHamlets, un apasionado por la programación, la tecnología y la creación de soluciones útiles. Me interesa construir proyectos con una base sólida, aprender nuevas herramientas y mejorar cada día como desarrollador.
 
-Mi objetivo es convertir ideas en proyectos reales, con enfoque en la claridad, la creatividad y la calidad del código.
+Mi enfoque está en combinar creatividad, lógica y aprendizaje constante para transformar ideas en experiencias digitales funcionales y bien diseñadas.
 
-## 🚀 Lo que estoy desarrollando
+## 🚀 Perfil
 
-- Sitio personal y perfil profesional en GitHub Pages
-- Proyectos personales de programación y experimentación
-- Aprendizaje continuo en tecnologías web y desarrollo de software
+- Nombre: NotHamlets
+- GitHub: https://github.com/NotHamlets
+- Sitio personal: https://NotHamlets.github.io
+- Intereses: desarrollo web, programación, tecnología, automatización y aprendizaje continuo
 
-## 🧠 Tecnologías que manejo
+## 🧠 Tecnologías
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -35,11 +36,18 @@ Mi objetivo es convertir ideas en proyectos reales, con enfoque en la claridad, 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📌 Proyectos
+## 📁 Proyectos
 
-- `NotHamlets.github.io` — mi espacio personal para compartir mi perfil, proyectos y presencia digital.
+- `NotHamlets.github.io` — Repositorio personal para mi perfil y sitio web en GitHub Pages.
 
-## 🌐 Contacto
+## 🌱 Objetivos
+
+- Aprender y dominar nuevas tecnologías.
+- Desarrollar proyectos personales con valor real.
+- Mejorar mis habilidades en programación y diseño web.
+- Construir una presencia digital sólida y profesional.
+
+## 📬 Contacto
 
 - GitHub: https://github.com/NotHamlets
 - Sitio personal: https://NotHamlets.github.io
