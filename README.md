@@ -13,20 +13,20 @@
   </a>
 </p>
 
-## 👋 Sobre mí
+##  Sobre mí
 
 Soy NotHamlets, un apasionado de la tecnología, la programación y la creación de soluciones prácticas. Me interesa aprender, crear proyectos con valor y mejorar mi camino como desarrollador cada día.
 
 Mi enfoque combina creatividad, lógica y constancia para transformar ideas en experiencias digitales útiles y bien diseñadas.
 
-## 🚀 Perfil
+##  Perfil
 
 - Nombre: NotHamlets
 - GitHub: https://github.com/NotHamlets
 - Sitio personal: https://NotHamlets.github.io
 - Intereses: desarrollo web, programación, tecnología, automatización y aprendizaje continuo
 
-## 🧠 Stack principal
+##  Stack principal
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -36,23 +36,23 @@ Mi enfoque combina creatividad, lógica y constancia para transformar ideas en e
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📁 Proyectos
+##  Proyectos
 
 - `NotHamlets.github.io` — Mi espacio personal en GitHub Pages para compartir mi perfil, proyectos y presencia digital.
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Aprender nuevas tecnologías y mejorar mis habilidades.
 - Diseñar proyectos con buena estructura y enfoque práctico.
 - Construir una presencia digital sólida y profesional.
 - Seguir creciendo como desarrollador con creatividad y constancia.
 
-## 🌐 Contacto
+##  Contacto
 
 - GitHub: https://github.com/NotHamlets
 - Sitio personal: https://NotHamlets.github.io
 
-## ✨ Frase
+##  Frase
 
 > Estoy construyendo mi camino como desarrollador con curiosidad, constancia y creatividad.
 
